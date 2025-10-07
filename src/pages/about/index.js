@@ -86,7 +86,6 @@ export const About = () => {
                         width: "100%",
                       }}
                     >
-                      <div className="progress-value">100%</div>
                     </div>
                   </div>
                   <p className="service_desc">{data.description}</p>
