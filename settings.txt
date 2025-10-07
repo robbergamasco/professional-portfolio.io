@@ -1,0 +1,4 @@
+root: C:\Users\Rob\professional-portfolio.io 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
