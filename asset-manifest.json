@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0dece7d.css",
+    "main.js": "/static/js/main.bd9d21f8.js",
+    "static/media/develop-review-ship.jpg": "/static/media/develop-review-ship.d0516b16c547958693b1.jpg",
+    "static/media/linkedinphoto.jpg": "/static/media/linkedinphoto.5d6f39f3820084b07819.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.a0dece7d.css",
+    "static/js/main.bd9d21f8.js"
+  ]
+}
